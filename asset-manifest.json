@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactingHangman/static/css/main.af5482b0.css",
+    "main.js": "/reactingHangman/static/js/main.27b4e0de.js",
+    "static/js/787.09349318.chunk.js": "/reactingHangman/static/js/787.09349318.chunk.js",
+    "static/media/try8.png": "/reactingHangman/static/media/try8.7bfe9fdeab5390918b09.png",
+    "static/media/try7.png": "/reactingHangman/static/media/try7.4f4a8ca1e74358c65dae.png",
+    "static/media/try4.png": "/reactingHangman/static/media/try4.374f91dffea067d65557.png",
+    "static/media/try6.png": "/reactingHangman/static/media/try6.a63fbed79f864745f6d3.png",
+    "static/media/try5.png": "/reactingHangman/static/media/try5.0f437dacd96d34111183.png",
+    "static/media/try3.png": "/reactingHangman/static/media/try3.316275f1077378769f07.png",
+    "static/media/try2.png": "/reactingHangman/static/media/try2.fc4cf5cc327bc461fce3.png",
+    "static/media/try1.png": "/reactingHangman/static/media/try1.a44e469d27a1c8075243.png",
+    "index.html": "/reactingHangman/index.html",
+    "main.af5482b0.css.map": "/reactingHangman/static/css/main.af5482b0.css.map",
+    "main.27b4e0de.js.map": "/reactingHangman/static/js/main.27b4e0de.js.map",
+    "787.09349318.chunk.js.map": "/reactingHangman/static/js/787.09349318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5482b0.css",
+    "static/js/main.27b4e0de.js"
+  ]
+}
