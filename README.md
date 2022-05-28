@@ -1,7 +1,9 @@
 # reactingHangman
 A basic hangman game build with React for Tiktok Youth Camp Submission. \
+As the name states, it's a hangman game that reacts :D \
+Main code added in, most of the original design, e.g. logos has been left as is. (The code was rushed in about 24 hours :') ) \
 The game can be played at https://june-han.github.io/reactingHangman/ \
-Written by: June Han \
+Written by: June Han
 
 ## Getting Started with Create React App
 
